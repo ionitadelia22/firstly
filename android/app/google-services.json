@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640775666519",
+    "project_id": "walltutorial-cd173",
+    "storage_bucket": "walltutorial-cd173.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640775666519:android:4a97bf50fdb12b89acdc12",
+        "android_client_info": {
+          "package_name": "com.example.firstly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsNEDDLJBhaVhf0-oRJrl3sBfw0fQVqeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
